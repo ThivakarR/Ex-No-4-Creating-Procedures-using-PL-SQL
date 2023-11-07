@@ -33,7 +33,8 @@ CREATE OR REPLACE PROCEDURE emp_data AS
    END;
   /
 
-### Output:![kfjfksdjo](https://github.com/ThivakarR/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/118707074/8471e6f2-4d68-4abd-96dc-9653d182618c)
+### Output:
+![kfjfksdjo](https://github.com/ThivakarR/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/118707074/8471e6f2-4d68-4abd-96dc-9653d182618c)
 
 
 ### Result:
